@@ -1,4 +1,4 @@
-/*!
+-/*!
  * Start Bootstrap - Freelancer v1.1.0 (http://startbootstrap.com/template-overviews/freelancer)
  * Copyright 2013-2016 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
@@ -114,7 +114,7 @@ header .intro-text .skills {
 }
 
 @media (max-width: 768px) { /* Adjust the max-width as needed */
-    .mobile-only {
+    .headder-mobile-only {
         display: block; /* Show on mobile */
     }
 }
