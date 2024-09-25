@@ -109,6 +109,15 @@ header .intro-text .skills {
     font-size: 1.25em;
   }
 }
+.header-mobile-only {
+    display: none; /* Hide by default */
+}
+
+@media (max-width: 768px) { /* Adjust the max-width as needed */
+    .mobile-only {
+        display: block; /* Show on mobile */
+    }
+}
 .navbar-custom {
   background: #383838;
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
