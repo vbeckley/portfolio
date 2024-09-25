@@ -359,7 +359,7 @@ section.success {
 }
 
 @media (max-width: 768px) { /* Adjust the max-width as needed */
-    #digital .headder-mobile-only {
+    #digital .header-mobile-only {
         display: block; /* Show on mobile */
     }
 }
